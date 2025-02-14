@@ -25,7 +25,7 @@ When opened, the page presents a Valentine's Day proposal. If the user attempts 
 
 - HTML
 - CSS
-- JavaScript (if included)
+- JavaScript 
 
 ## Usage
 
